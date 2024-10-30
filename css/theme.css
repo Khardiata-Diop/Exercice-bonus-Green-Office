@@ -1,0 +1,15 @@
+body{
+    background-image:url("img/fond.png");
+}
+nav{
+    display:flex;
+}
+nav li{
+    list-style-type:none;
+}
+main{
+    
+}
+footer{
+    
+}
